@@ -245,7 +245,7 @@ header{
     
 }
 .fact-item:hover img{
-    transform: scale(2);
+    transform: scale(1.5);
     transition:1s ease;
     filter: grayscale(100%);
 }
